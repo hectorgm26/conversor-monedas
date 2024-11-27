@@ -12,7 +12,7 @@ import java.net.http.HttpResponse;
 
 public class ApiRequestResponse {
 
-    private static final String KeyApi = "179d23e79bd04b8a5ec9f5c9";
+    private static final String KeyApi = "INSERTAR KEY API AQUI";
 
     public double obtenerTasaCambio(String monedaOrigen, String monedaDestino) {
 
